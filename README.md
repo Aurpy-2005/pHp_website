@@ -20,6 +20,12 @@ This project is a **Role-Based Access Control (RBAC)** Task Manager built using 
 
 - **Account Approval**: 
   - Admin can approve or reject users based on their registration status.
+##  Technologies Used
+PHP: Backend scripting language.
+
+MySQL: Database management system for storing tasks and user data.
+
+HTML/CSS: For the frontend design.
 
 ## Screenshots
 
@@ -62,9 +68,3 @@ To get started with the project, first clone the repository:
 git clone https://github.com/Aurpy-2005/pHp_website.git
 cd pHp_website
 
-### Technologies Used
-PHP: Backend scripting language.
-
-MySQL: Database management system for storing tasks and user data.
-
-HTML/CSS: For the frontend design.
